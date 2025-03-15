@@ -26,7 +26,7 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
   📜 [View Certificate]([#](https://certificates.cs50.io/703b33f2-4c53-40b6-95eb-c85db846143b.pdf?size=letter)) | 🔗 [AI Projects](https://github.com/RashaAbuRkab/CS50-AI-Projects)
 
 - **IBM Data Analyst** 📊  
-  📜 [View Certificate](#) | 
+  📜 [View Certificate]([#](https://drive.google.com/file/d/1jJZoquzaQiQlsvP2ODy7xpVrKRoGXhXo/view?usp=sharing)) | 
   
 - **Associate Data Engineer** 📊  
   📜 [View Certificate]([#](https://www.datacamp.com/completed/statement-of-accomplishment/track/346dcec737085beaf7e57b10dcb58f8e6b813e72)) | 🔗 
