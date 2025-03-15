@@ -17,19 +17,19 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 ### 🎓 Certifications & Related Projects:
 
 - **CS50: Introduction to Computer Science – Harvard University** 🏅  
-  📜 [View Certificate](#) | 🔗 [CS50 Projects](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects)
+  📜 [View Certificate]([#](https://certificates.cs50.io/9471507e-8640-4bd9-a634-ab2889211733.pdf?size=letter)) | 🔗 [CS50 Projects](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects)
 
 - **CS50: Introduction to Python – Harvard University** 🏅  
-  📜 [View Certificate](#) | 🔗 [Python Projects](https://github.com/RashaAbuRkab/CS50-Python-Programming)
+  📜 [View Certificate]([#](https://certificates.cs50.io/386a02a1-01be-4c3c-b9e0-8a2e095dc07e.pdf?size=letter)) | 🔗 [Python Projects](https://github.com/RashaAbuRkab/CS50-Python-Programming)
 
 - **CS50: AI with Python – Harvard University** 🤖  
-  📜 [View Certificate](#) | 🔗 [AI Projects](https://github.com/RashaAbuRkab/CS50-AI-Projects)
+  📜 [View Certificate]([#](https://certificates.cs50.io/703b33f2-4c53-40b6-95eb-c85db846143b.pdf?size=letter)) | 🔗 [AI Projects](https://github.com/RashaAbuRkab/CS50-AI-Projects)
 
 - **IBM Data Analyst** 📊  
-  📜 [View Certificate](#) | 🔗 [Data Science Projects](https://github.com/RashaAbuRkab/data-science-projects)
+  📜 [View Certificate](#) | 
   
 - **Associate Data Engineer** 📊  
-  📜 [View Certificate](#) | 🔗 [Data Science Projects](https://github.com/RashaAbuRkab/data-science-projects)
+  📜 [View Certificate]([#](https://www.datacamp.com/completed/statement-of-accomplishment/track/346dcec737085beaf7e57b10dcb58f8e6b813e72)) | 🔗 
 
 ---
 
@@ -39,17 +39,16 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 - **📊 Data Warehouse Project** – A structured data warehousing solution for analytics. [🔗 GitHub](https://github.com/RashaAbuRkab/data-warehouse)
 - **🧠 Expert System (BuildWise)** – An AI-powered expert system for decision-making. [🔗 GitHub](https://github.com/RashaAbuRkab/buildwise)
 - **🛠️ Data Structures Project** – Implementations of various data structures in Python. [🔗 GitHub](https://github.com/RashaAbuRkab/data-structures)
-- **📌 To-Do List Web App** – A gamified task management app with points & rewards. [🔗 GitHub](https://github.com/RashaAbuRkab/todo-app)
-- **🎭 AI-Powered Chatbot** – A smart chatbot using NLP techniques. [🔗 GitHub](https://github.com/RashaAbuRkab/ai-chatbot)
-- **📡 YouTube Link Converter** – Convert embedded YouTube links to shareable ones. [🔗 GitHub](https://github.com/RashaAbuRkab/youtube-link-converter)
+- **📌 To-Do List Web App** – A gamified task management app with points & rewards. [🔗 GitHub]([https://github.com/RashaAbuRkab/todo-app](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects/tree/main/project))
+
 
 ---
 
 ### 📬 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rashaaburkab) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rashaaburkab) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/RashaAbuRkab) 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:rasha.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:rashaaburkab@gmail.com)
 
 ---
 
