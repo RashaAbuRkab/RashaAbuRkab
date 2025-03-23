@@ -36,17 +36,18 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 ### 🚀 Featured Projects:
 
 - **📌 Bar-Code Detection and Decoding** – This project aims to use image processing techniques to analyze images and extract information, such as detecting barcodes. [🔗 GitHub](https://github.com/RashaAbuRkab/Bar-Code-Detection-and-Decoding)
-- **📊 Data Warehouse Project** – A structured data warehousing solution for analytics. [🔗 GitHub](https://github.com/RashaAbuRkab/data-warehouse)
-- **🧠 Expert System (BuildWise)** – An AI-powered expert system for decision-making. [🔗 GitHub](https://github.com/RashaAbuRkab/buildwise)
-- **🛠️ Data Structures Project** – Implementations of various data structures in Python. [🔗 GitHub](https://github.com/RashaAbuRkab/data-structures)
-- **📌 To-Do List Web App** – A gamified task management app with points & rewards. [🔗 GitHub]([https://github.com/RashaAbuRkab/todo-app](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects/tree/main/project))
+- **📊 Data Warehouse Project** – A structured data warehousing solution for analytics. [🔗 GitHub](https://github.com/RashaAbuRkab/Data-Warehouse-Project)
+- **🧠 Expert System (BuildWise)** – An AI-powered expert system for decision-making. [🔗 GitHub](https://github.com/RashaAbuRkab/Expert-System-Projects/tree/main/BuildWise%20Expert%20System)
+- **🛠️ Data Structures Project** – Implementations of various data structures in Python. [🔗 GitHub](https://github.com/RashaAbuRkab/Data-Structures-Project)
+- **📌 To-Do List Web App** – A gamified task management app with points & rewards. [🔗 GitHub](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects/tree/main/project)
 
 
 ---
 
 ### 📬 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rashaaburkab) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rashaaburkab)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/RashaAbuRkab) 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:rashaaburkab@gmail.com)
 
