@@ -32,7 +32,7 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
   📜 [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/de310b82be668e302d4c01c7874d2ad8bdb2c149)  
 
 - **Associate Data Engineer** 📊  
-  📜 [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/346dcec737085beaf7e57b10dcb58f8e6b813e72)  
+  📜 [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/346dcec737085beaf7e57b10dcb58f8e6b813e72)  | 🔗 [Track Projects](https://github.com/RashaAbuRkab/Associate-Data-Engineer-in-SQL)
 
 - **Python Data Associate** 📊  
   📜 [View Certificate](https://www.datacamp.com/certificate/PDA0017750244001)  
