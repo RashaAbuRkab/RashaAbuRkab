@@ -1,16 +1,25 @@
-### Hi there, I'm Rasha Abu Rkab! 👋
+### Hi there, I'm Rasha A. Abu Rkab! 👋
 
-I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding, problem-solving, and building impactful projects. I love working on **Python,Data, and AI applications**, and I'm always exploring new technologies to enhance my skills. 🚀
+I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding, problem-solving, and building impactful projects. I’m dedicated to using technology to create meaningful solutions that make a difference in my community. 🚀 I love working on **Python, Data, and AI applications**, and I’m always exploring new technologies to enhance my skills and knowledge.
 
 ---
 
 ### 🔥 Skills & Technologies:
 
-- **Languages:** Python 🐍, C, SQL
-- **Web Development:** Flask, HTML, CSS, Ninja
-- **Data Science & AI:** Pandas, NumPy, Machine Learning Basics
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
-- **Competitive Programming:** PCPC, ICPC participant ⚡
+- **Languages:** Python 🐍, C, SQL  
+  *Used Python for data analysis, machine learning models, and web applications. Proficient in SQL for database management.*
+  
+- **Web Development:** Flask, HTML, CSS, Ninja  
+  *Built interactive web applications with Flask and designed responsive front-end interfaces using HTML and CSS.*
+
+- **Data Science & AI:** Pandas, NumPy, Machine Learning Basics  
+  *Utilized Pandas and NumPy for data manipulation and analysis. Gained experience in basic machine learning techniques.*
+
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
+  *Familiar with version control through Git, collaborative coding on GitHub, and comfortable with development environments like VS Code and Jupyter Notebook.*
+
+- **Competitive Programming:** PCPC, ICPC participant ⚡  
+  *Competed in the Palestinian Collegiate Programming Contest (PCPC) honing problem-solving skills under pressure.*
 
 ---
 
@@ -37,24 +46,31 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 - **Python Data Associate** 📊  
   📜 [View Certificate](https://www.datacamp.com/certificate/PDA0017750244001)  
 
-  
 ---
 
 ### 🚀 Featured Projects:
 
-- **📌 Bar-Code Detection and Decoding** – This project aims to use image processing techniques to analyze images and extract information, such as detecting barcodes. [🔗 GitHub](https://github.com/RashaAbuRkab/Bar-Code-Detection-and-Decoding)
-- **📊 Data Warehouse Project** – A structured data warehousing solution for analytics. [🔗 GitHub](https://github.com/RashaAbuRkab/Data-Warehouse-Project)
-- **🧠 Expert System (BuildWise)** – An AI-powered expert system for decision-making. [🔗 GitHub](https://github.com/RashaAbuRkab/Expert-System-Projects/tree/main/BuildWise%20Expert%20System)
-- **🛠️ Data Structures Project** – Implementations of various data structures in Python. [🔗 GitHub](https://github.com/RashaAbuRkab/Data-Structures-Project)
-- **📌 To-Do List Web App** – A gamified task management app with points & rewards. [🔗 GitHub](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects/tree/main/project)
+- **📌 Bar-Code Detection and Decoding** – This project aims to use image processing techniques to analyze images and extract information, such as detecting barcodes.  
+  🔗 [GitHub](https://github.com/RashaAbuRkab/Bar-Code-Detection-and-Decoding)
 
+- **📊 Data Warehouse Project** – A structured data warehousing solution for analytics, focusing on efficient data storage and retrieval.  
+  🔗 [GitHub](https://github.com/RashaAbuRkab/Data-Warehouse-Project)
+
+- **🧠 Expert System (BuildWise)** – An AI-powered expert system designed to assist in decision-making for construction projects, providing solutions based on input conditions.  
+  🔗 [GitHub](https://github.com/RashaAbuRkab/Expert-System-Projects/tree/main/BuildWise%20Expert%20System)
+
+- **🛠️ Data Structures Project** – Implementations of various data structures in Python, including stacks, queues, and linked lists, demonstrating my understanding of algorithms and data manipulation.  
+  🔗 [GitHub](https://github.com/RashaAbuRkab/Data-Structures-Project)
+
+- **📌 To-Do List Web App** – A gamified task management app that integrates points and rewards to motivate users to complete their tasks efficiently.  
+  🔗 [GitHub](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects/tree/main/project)
 
 ---
 
 ### 📬 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rashaaburkab)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/RashaAbuRkab) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rashaaburkab)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/RashaAbuRkab)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:rashaaburkab@gmail.com)
 
 ---
