@@ -7,7 +7,7 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 ### 🔥 Skills & Technologies:
 
 - **Languages:** Python 🐍, C, SQL
-- **Web Development:** Flask, HTML, CSS, Bootstrap
+- **Web Development:** Flask, HTML, CSS, Ninja
 - **Data Science & AI:** Pandas, NumPy, Machine Learning Basics
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
 - **Competitive Programming:** PCPC, ICPC participant ⚡
@@ -17,19 +17,19 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 ### 🎓 Certifications & Related Projects:
 
 - **CS50: Introduction to Computer Science – Harvard University** 🏅  
-  📜 [View Certificate]([#](https://certificates.cs50.io/9471507e-8640-4bd9-a634-ab2889211733.pdf?size=letter)) | 🔗 [CS50 Projects](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects)
+  📜 [View Certificate](https://certificates.cs50.io/9471507e-8640-4bd9-a634-ab2889211733.pdf?size=letter) | 🔗 [CS50 Projects](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects)
 
 - **CS50: Introduction to Python – Harvard University** 🏅  
-  📜 [View Certificate]([#](https://certificates.cs50.io/386a02a1-01be-4c3c-b9e0-8a2e095dc07e.pdf?size=letter)) | 🔗 [Python Projects](https://github.com/RashaAbuRkab/CS50-Python-Programming)
+  📜 [View Certificate](https://certificates.cs50.io/386a02a1-01be-4c3c-b9e0-8a2e095dc07e.pdf?size=letter) | 🔗 [Python Projects](https://github.com/RashaAbuRkab/CS50-Python-Programming)
 
 - **CS50: AI with Python – Harvard University** 🤖  
-  📜 [View Certificate]([#](https://certificates.cs50.io/703b33f2-4c53-40b6-95eb-c85db846143b.pdf?size=letter)) | 🔗 [AI Projects](https://github.com/RashaAbuRkab/CS50-AI-Projects)
+  📜 [View Certificate](https://certificates.cs50.io/703b33f2-4c53-40b6-95eb-c85db846143b.pdf?size=letter) | 🔗 [AI Projects](https://github.com/RashaAbuRkab/CS50-AI-Projects)
 
 - **IBM Data Analyst** 📊  
-  📜 [View Certificate]([#](https://drive.google.com/file/d/1jJZoquzaQiQlsvP2ODy7xpVrKRoGXhXo/view?usp=sharing)) | 
+  📜 [View Certificate](https://drive.google.com/file/d/1jJZoquzaQiQlsvP2ODy7xpVrKRoGXhXo/view?usp=sharing) 
   
 - **Associate Data Engineer** 📊  
-  📜 [View Certificate]([#](https://www.datacamp.com/completed/statement-of-accomplishment/track/346dcec737085beaf7e57b10dcb58f8e6b813e72)) | 🔗 
+  📜 [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/346dcec737085beaf7e57b10dcb58f8e6b813e72)  
 
 ---
 
@@ -47,7 +47,6 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 ### 📬 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rashaaburkab)
-
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/RashaAbuRkab) 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:rashaaburkab@gmail.com)
 
