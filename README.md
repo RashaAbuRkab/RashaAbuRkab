@@ -65,6 +65,8 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 - **📌 To-Do List Web App** – A gamified task management app that integrates points and rewards to motivate users to complete their tasks efficiently.  
   🔗 [GitHub](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects/tree/main/project)
 
+- **🚲 Bicycle Sales Data Warehouse** – A data warehouse for bicycle sales that centralizes sales, customer, and inventory data to optimize decision-making, enhance marketing strategies, and improve operational efficiency. 📊📈  
+  🔗 [GitHub](https://github.com/RashaAbuRkab/Bicycle-Sales-Data-Warehouse)
 ---
 
 ### 📬 Connect with Me:
