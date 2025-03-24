@@ -73,6 +73,10 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 
 - **Excel Dashboards for Data Analysis 📅** – Excel dashboards were created as part of my data analysis training📊.
   🔗 [GitHub](https://github.com/RashaAbuRkab/Excel-Dashboards)
+
+- **🚲 Seoul Bike Sharing Demand Prediction Using Linear Regression** – This project leverages machine learning to predict the demand for bike rentals in Seoul based on factors like weather, day of the week, and other external conditions.
+  🔗 [GitHub](https://github.com/RashaAbuRkab/Seoul-Bike-Sharing-Demand-Prediction/tree/main)
+  
 ---
 
 ### 📬 Connect with Me:
