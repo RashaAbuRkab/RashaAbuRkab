@@ -67,8 +67,12 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 
 - **🚲 Bicycle Sales Data Warehouse** – A data warehouse for bicycle sales that centralizes sales, customer, and inventory data to optimize decision-making, enhance marketing strategies, and improve operational efficiency. 📊📈  
   🔗 [GitHub](https://github.com/RashaAbuRkab/Bicycle-Sales-Data-Warehouse)
+  
 - **API Data Analysis for Cryptocurrency Assets📈** – This project helps understand API integration and data analysis workflows using Python🐍.
   🔗 [GitHub](https://github.com/RashaAbuRkab/API-Data-Analysis-for-Cryptocurrency-Assets-)
+
+- **Excel Dashboards for Data Analysis 📅** – Excel dashboards were created as part of my data analysis training📊.
+  🔗 [GitHub](https://github.com/RashaAbuRkab/Excel-Dashboards)
 ---
 
 ### 📬 Connect with Me:
