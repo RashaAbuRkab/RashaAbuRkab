@@ -18,7 +18,7 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
   *Familiar with version control through Git, collaborative coding on GitHub, and comfortable with development environments like VS Code and Jupyter Notebook.*
 
-- **Competitive Programming:** PCPC, ICPC participant ⚡  
+- **Competitive Programming:** PCPC participant ⚡  
   *Competed in the Palestinian Collegiate Programming Contest (PCPC) honing problem-solving skills under pressure.*
 
 ---
