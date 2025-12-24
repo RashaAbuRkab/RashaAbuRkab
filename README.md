@@ -24,7 +24,7 @@ I'm a **Data Science & AI student** from Gaza 🇵🇸, passionate about coding,
 ---
 
 ### 🎓 Certifications & Related Projects:
-
+- **MIT Data Science and Machine Learning Program** : I completed this training as part of a group of 20 students from the Gaza Strip.
 - **CS50: Introduction to Computer Science – Harvard University** 🏅  
   📜 [View Certificate](https://certificates.cs50.io/9471507e-8640-4bd9-a634-ab2889211733.pdf?size=letter) | 🔗 [CS50 Projects](https://github.com/RashaAbuRkab/CS50-s-Introduction-to-Computer-Science-Projects)
 
